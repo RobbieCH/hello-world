@@ -1,4 +1,3 @@
 # hello-world
 
-hi humans
-its robbie.nice to meet you.
+hi humans.its robbie.nice to meet you.
